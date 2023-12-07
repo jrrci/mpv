@@ -42,4 +42,4 @@ function open_file_dialog()
 	end
 end
 
-mp.add_key_binding('alt+o', 'open-file-dialog', open_file_dialog)
+mp.add_key_binding('o', 'open-file-dialog', open_file_dialog)
